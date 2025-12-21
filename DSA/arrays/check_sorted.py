@@ -1,4 +1,6 @@
 # we r given with an array and we have to check if it is already sorted or not.
+# Time Complexity = O(n)
+# Space Complexity = O(1)
 
 arr =[12,14,16,18,20]
 n = len(arr)

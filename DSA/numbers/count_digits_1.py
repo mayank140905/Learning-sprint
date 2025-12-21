@@ -1,6 +1,9 @@
 # to count digits in a number, there r 2 ways
 # 1st method - loop, keep doing floor division until it becomes zero.
 
+#TC = O(log n)
+#SC = O(1)
+
 def count_digits():
   n = int(input("enter your number: "))
   num = n

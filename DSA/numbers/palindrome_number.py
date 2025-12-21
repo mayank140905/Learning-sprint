@@ -1,5 +1,8 @@
 # palindrome - a number or string is said to be a palindrome, if it and it's reverse are same/equal.
 
+#TC=O(logn)
+#SC=O(1)
+
 def palindrome():
   n = int(input("enter your number : "))
   num = n

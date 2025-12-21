@@ -3,6 +3,9 @@
 # on floor division by 10 and remainder operator
 # we get the last digit and also reduce the number by 1 digit.
 
+#TC = O(logn)
+#SC = O(1)
+
 n = int(input("enter your number : "))
 num = n
 digits = []

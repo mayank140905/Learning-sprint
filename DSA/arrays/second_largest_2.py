@@ -2,6 +2,9 @@
 # and we have to find second largest element in that list.
 # there are three methods to do that
 
+#Time Complexity = O(n + n) = O(n)
+#Space Complexity = O(1)
+
 # 2) double loop method - we find largest annd s_largest, in different loops
 
 nums = [55, 32, -97, 99, 3, 67]

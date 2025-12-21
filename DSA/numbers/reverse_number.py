@@ -1,5 +1,8 @@
 # we r given a number, and we have to reverse it 
 
+#TC=O(logn)
+#SC=O(1)
+
 n = 12345
 num = n
 result = 0
@@ -24,3 +27,4 @@ Space Complexity (SC)
 Only constant extra variables are used (num, result, last_digit).
 O(1)
 '''
+

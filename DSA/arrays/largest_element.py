@@ -1,5 +1,7 @@
 # we r given a list or array of numbers which can be both positive and negative
 # and we have to find largest element in that list.
+# Time complexity = O(n)
+# Space complexity = O(1)
 
 nums = [55,32,-97,99,3,67]
 

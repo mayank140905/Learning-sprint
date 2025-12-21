@@ -2,6 +2,10 @@
 # and we have to find second largest element in that list.
 # there are three methods to do that
 
+#Time Complexity = O(n log n)
+#Space Complexity = O(1)
+
+
 # 1) sort method - use .sort and print last 2nd element.
 
 nums = [55, 32, -97, 99, 3, 67]
