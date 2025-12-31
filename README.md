@@ -1,36 +1,35 @@
 # Learning Sprint 🚀
-
-This repository documents my daily learning in:
-- Data Structures & Algorithms 
+This repository documents my structured learning in:
+- Data Structures & Algorithms (DSA)
+- Python
 - Machine Learning fundamentals
 
-**Goal:** Build consistency, strong fundamentals, and real coding habits.
+## Week 1 Summary
 
----
+### Python
+- Completed core Python fundamentals through hands-on assignments
+- Worked on problem-solving and clean coding practices
+- Certified in Python Programming (Grade A)
 
-## 📅 Progress Log
+### DSA
+- Array fundamentals
+- Binary Search (iterative) and basic variants
+- Logical problem-solving using Python
 
-### ✅ Day 1 & Day 2
-- Python fundamentals and problem-solving basics
-- Introduction to DSA and logical thinking
-- Hands-on coding practice
+### Machine Learning
+- NumPy fundamentals
+- Pandas for data handling
+- Worked with real CSV datasets
 
-### ✅ Day 3 & Day 4 (Combined)
-- **DSA**
-  - Array operations: reverse, right rotation (by 1 & k)
-  - Remove duplicates from sorted arrays
-  - Second largest element (optimized approaches)
-  - Number problems: palindrome, Armstrong, divisors (√n approach)
+### Tools & Practices
+- Git & GitHub for version control
+- Structured folder organization
+- Regular commits for tracking progress
 
-- **Python Basics**
-  - Core data types: strings, lists, sets, tuples, dictionaries
-  - Loops, conditionals, list comprehensions
-  - Lambda functions & control flow
+## Certifications
+- Python Programming Certification – Edureka (Grade A)
 
-- **NumPy**
-  - NumPy fundamentals for Machine Learning
-  - Array creation, indexing, operations & broadcasting
-
----
+## Goal
+Build strong fundamentals in software engineering through consistent practice and real implementation.
 
 📌 *This repository is updated regularly to track progress and maintain consistency.*
